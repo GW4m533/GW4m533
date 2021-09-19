@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GW4m533
-- 👀 I’m interested in Backend and Cloud Technologies
+- 👀 I’m interested in Backend, Cloud and Web Technologies
 - 🌱 I’m currently learning Spring Boot, AWS, Spring Security
 - 💞️ I’m looking to collaborate on the above
 - 📫 How to reach me ...
